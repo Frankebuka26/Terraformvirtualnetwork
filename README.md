@@ -6,4 +6,4 @@ Location is West US for resource group.
 Each will have a tag called "Created", the value is name of the creator
 Commit to Git hub
 Use comments in code
-Submit Repo URL.
+Submit Repo URL
